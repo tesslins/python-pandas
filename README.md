@@ -10,6 +10,9 @@ data-ing all the data
 2.	Clone dis repo, enter the directory.
 	```
 	git clone https://github.com/tesslins/python-pandas.git
+	```
+	then
+	```
     cd python-pandas
 	```
 3. Download Miniconda binary from here: http://conda.pydata.org/miniconda.html.
