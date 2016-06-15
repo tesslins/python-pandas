@@ -15,7 +15,7 @@ data-ing all the data
 3. Download Miniconda binary from here: http://conda.pydata.org/miniconda.html.
    (Make sure to get the version appropriate to your Python version!)
 
-4. Download Miniconda binary from here: http://conda.pydata.org/docs/install/quick.html#os-x-miniconda-install.
+4. Follow instructions here: http://conda.pydata.org/docs/install/quick.html#os-x-miniconda-install.
     (There are also non-Mac instructions.)
 
 5. Create environment.
@@ -32,5 +32,6 @@ data-ing all the data
 	```
 	conda install pandas
     conda install numexpr
-    bottleneck
+    conda install bottleneck
+    conda install matplotlib
 	```
